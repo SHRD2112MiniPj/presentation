@@ -1,5 +1,5 @@
 # presentation
-presentation file and final.ver System.lineSeparator()
+presentation files and final.ver of program!  System.lineSeparator()
 
 발표한 자료 및 최종본 모은 Repository 입니다! \n
 
